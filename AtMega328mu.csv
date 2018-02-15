@@ -1,0 +1,26 @@
+Source,/Users/danielcrompton/Projects/Open Hardware/AtMega328mu.sch
+Kicad Rev,Eeschema 4.0.7
+Generated Date,2018 February 14, Wednesday 10:38:49
+
+Title,atmega328mu breakout
+Company,Special Brands BV
+Revision,v1.0
+Date Issue,2018-02-13
+
+Reference,Value,Library,Library Ref
+U1,ATMEGA328-MU,atmel,ATMEGA328-MU
+J1,Conn_01x08,conn,Conn_01x08
+J2,Conn_01x08,conn,Conn_01x08
+J3,Conn_01x08,conn,Conn_01x08
+J4,Conn_01x08,conn,Conn_01x08
+R1,1M1,device,R
+C6,22pF,device,C
+C7,22pF,device,C
+Y1,Crystal,device,Crystal
+C1,100nF,device,C
+C2,C,device,C
+C3,C,device,C
+C4,C,device,C
+C5,C,device,C
+R3,1k,device,R
+R2,1k,device,R
